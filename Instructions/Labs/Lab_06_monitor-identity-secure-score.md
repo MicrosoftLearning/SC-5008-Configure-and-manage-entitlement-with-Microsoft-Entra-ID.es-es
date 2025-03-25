@@ -12,7 +12,7 @@ Microsoft Entra Identity Protection proporciona detección y corrección automat
 
 #### Tiempo estimado: 15 minutos
 
-### Ejercicio 1: usar la puntuación de seguridad de identidad para supervisar y administrar la posición de seguridad de identidad
+### Ejercicio 1: Uso de la puntuación de seguridad de identidad para supervisar y administrar la posición de seguridad de identidad
 
 #### Tarea 1: Revisión de la puntuación de seguridad de identidad y acciones de mejora
 
@@ -20,19 +20,17 @@ Microsoft Entra Identity Protection proporciona detección y corrección automat
 
 2. Abre el menú **Protección** y selecciona **Puntuación de seguridad de la identidad**
 
-**NOTA**: Esto te llevará al panel Puntuación de seguridad de la identidad.
+**NOTA**: esto te llevará al panel Puntuación de seguridad de la identidad.
 
 3. Desplázate hacia abajo para ver las **Acciones de mejora**.
 
 4. A diferencia de las acciones de mejora de Microsoft Defender for Cloud y Microsoft Defender XDR, estas acciones de mejora son específicas de la identidad.  Esto proporciona una lista más enfocada en las posibles acciones de la administración de la posición de seguridad.  Las acciones de mejora iniciadas desde esta lista también proporcionarán un impacto en la posición de seguridad general del inquilino. 
 
-#### Tarea 2: ejecutar una acción de mejora
+#### Tarea 2: Ejecución de una acción de mejora
 
-1. Para mejorar una área de la posición de seguridad de identidad, selecciona **Proteger todos los usuarios con una directiva de riesgo de inicio de sesión**.
+1. Para mejorar una área de la posición de seguridad de identidad, selecciona **Habilitar directivas de riesgo de inicio de sesión de protección de identidades de Microsoft Entra ID**.
 
-2. En el icono que se abre, desplázate hacia abajo y selecciona **Introducción**.
-
-3. Se abrirá una nueva pestaña para **Identity Protection | Directiva de riesgo de inicio de sesión**.
+3. En el menú de la izquierda, abre **Protección de identidades | Directiva de riesgo de inicio de sesión**.
 
 4. Selecciona **Todos los usuarios** en **Asignaciones**.
 
